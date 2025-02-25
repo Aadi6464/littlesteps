@@ -1,0 +1,51 @@
+<html>
+ <head>
+   <title>Online Blog</title>
+<link rel="stylesheet" href="styles.css">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            border-radius: 10px;
+        }
+        hr {
+            border: 1px solid #ccc;
+        }
+    </style>
+   </head>
+ <body>
+  <h1 align="center">My Online Blog</h1>
+  <h2 align="center">Date: 2025 February 18</h2>
+  <hr>
+  <img src="C:\Users\Students\Downloads\habb.jpg" style="width:150px;height:150px;">
+  <p> 
+  <h2>The Power of Small Habits in Creating Lasting Change<h2>
+   <p>In today’s fast-paced world, we’re often looking for quick fixes and instant results, but real, lasting<br>
+   change usually comes from small, consistent actions. Whether it’s improving your health, mastering a<br>
+   new skill, or building stronger relationships, success doesn’t happen overnight. It’s the tiny, everyday<br>
+   habits that compound over time to create remarkable transformations.<br></p>
+   <p>One of the key reasons small habits work so well is because they’re easier to maintain. Rather than<br>
+   overhauling your entire routine or setting ambitious (and often overwhelming) goals, starting with a<br>
+   small, manageable habit makes it more likely you’ll stick with it. This gradual approach reduces<br>
+   resistance and gives you the momentum needed to stay on track.<br></p>
+   <hr>
+   </body>
+   </html>
+
+
