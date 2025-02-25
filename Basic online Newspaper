@@ -1,0 +1,50 @@
+   <html>
+<head>
+  <title> Online Newspaper</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            text-align: center;
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+        p {
+            line-height: 1.6;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>The Daily News</h1>
+        <h2>Monday, February 24, 2025</h2>
+        <hr>
+
+        <div class="section">
+            <h3>What's Going On</h3>
+            <p>The world is evolving rapidly, with new developments in technology, politics, sports, and entertainment shaping our daily lives. From groundbreaking innovations to unexpected twists in global affairs, each day brings new stories that impact society in different ways. Whether it’s a breakthrough in medical research, a historic sports victory, or a critical government decision, staying informed helps us navigate this ever-changing world.</p>
+
+            <p>In today’s edition, we bring you the latest updates from around the globe. The tech industry is buzzing with announcements from the Global Tech Conference, policymakers are introducing new economic reforms, and sports fans are celebrating a thrilling championship win. Meanwhile, the entertainment industry is set to break records with a blockbuster release, and the weather forecast promises clear skies ahead. Read on for a deeper look into today’s most important stories.</p>
+        </div>
+    </div>
+
+</body>
+</html>
+
