@@ -1,0 +1,87 @@
+<html>
+<head>
+ <title>My CV</title>
+   <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }	
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+ .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>CV</h1>
+        <img src="C:\Users\HP\OneDrive\Pictures\Saved Pictures\download.jpeg" alt="Profile Picture" class="profile-pic" align="center">
+        <hr>
+
+        <div class="section">
+            <h2>Personal Information</h2>
+            <p><strong>Name:</strong>Aditya Mishra</p>
+            <p><strong>Date of Birth:</strong> December 14, 2008</p>
+            <p><strong>Address:</strong> Tokha-3, Baniyatar, Kathmandu </p>
+            <p><strong>Nationality:</strong> Nepali</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>+2 in computer</strong> - St Xavier's College  (2024 - 2026)</p>
+            <p><strong>class one to ten</strong> - fluorescent Secondary School (2013 - 2023)</p>
+        </div>
+
+        <div class="section">
+            <h2>Job Experiences</h2>
+
+            <p><strong>Intern - Engineer</strong> - Lab Tech (2021 - 2022)</p>
+            <p>Assisted in  development of different projects related to the post</p>
+        </div>
+
+        <div class="section">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Intern of the Month - Lab Tech (July 2022)</li>
+                <li>Developed a system to improve power consumption of a device </li>
+                <li>Winner of the annual invention challenge (2021)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>CAD Softwares</li>
+                <li>Creation of Research Papers</li>
+                <li>Project Management</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
+
