@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>c programming</title>
+</head>
+<body>
+<h1> C programming in Webpage</h1>
+<h2> printing hello world</h2>
+   <p>#include&lt;stdio.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>    printf("hello world");</p>
+    <p>}</p>
+<img src="C:\Users\HP\Downloads\cinweb.png"  width="300" height="100">
+<h2> String Handeling Functions</h2>
+<h3>strlen function</h3>
+  <p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>int len;</p>
+    <p>char name[30];</p>
+    <p>printf("enter your name");</p>
+    <p>scanf("%s", name);</p>
+    <p>len = strlen(name);</p>
+    <p>printf("num of letters = %d", len);</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 192350.png"  width="300" height="100">
+<br>
+<h3>strcat function</h3>
+ <p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>int len;</p>
+    <p>char fst[30], lst[30];</p>
+    <p>printf("enter your first name:");</p>
+    <p>scanf("%s", fst);</p>
+    <p>printf("enter your last name:");</p>
+    <p>scanf("%s", lst);</p>
+    <p>strcat(fst, lst);</p>
+    <p>printf("the fullname is=%s", fst);</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 193612.png"  width="300" height="100">
+
+<h3>strcmp function</h3>
+
+<p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>int a;</p>
+    <p>char fst[30], sec[30];</p>
+    <p>printf("enter your first word:");</p>
+    <p>scanf("%s", fst);</p>
+    <p>printf("enter your last word:");</p>
+    <p>scanf("%s", sec);</p>
+    <p>a = strcmp(fst, sec);</p>
+    <p>if (a == 0)</p>
+    <p>printf("both words are equal");</p>
+    <p>else</p>
+    <p>printf("both words are not equal");</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 194247.png"  width="300" height="100">
+
+<h3>strcpy function</h3>
+
+<p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>char original[100], copy[100];</p>
+    <p>printf("Enter a string: ");</p>
+    <p>scanf("%s", original);</p>
+    <p>strcpy(copy, original);</p>
+    <p>printf("Copied string: %s", copy);</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 195501.png"  width="300" height="100">
+
+<h3>strlwr function</h3>
+
+<p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>char str[100];</p>
+    <p>printf("Enter a string: ");</p>
+    <p>scanf("%s", str);</p>
+    <p>strlwr(str); </p>
+    <p>printf("Lowercase string: %s", str);</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 195921.png" width="300" height="100">
+
+<h3>strupr function</h3>
+
+    <p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>char str[100];</p>
+    <p>printf("Enter a string: ");</p>
+    <p>scanf("%s", str);</p>
+    <p>strupr(str); </p>
+    <p>printf("Uppercase string: %s", str);</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 200338.png" width="300" height="100">
+
+
+<h3>strrev function</h3>
+
+ <p>#include &lt;stdio.h&gt;</p>
+    <p>#include &lt;string.h&gt;</p>
+    <p>void main()</p>
+    <p>{</p>
+    <p>char str[100];</p>
+    <p>printf("Enter a string: ");</p>
+    <p>scanf("%s", str);</p>
+    <p>strrev(str); // Reverse the string</p>
+    <p>printf("Reversed string: %s", str);</p>
+    <p>}</p>
+<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-06 205259.png" width="300" height="100">
+
+   </body>
+
+
+</body>
+</html>
