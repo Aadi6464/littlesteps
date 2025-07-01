@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ICT Questions and Answers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.5;
+            background-color: #fff;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .question {
+            font-weight: bold;
+            margin-top: 25px;
+            font-size: 1.1em;
+        }
+        .answer {
+            margin-left: 20px;
+            margin-top: 5px;
+            white-space: pre-line;
+        }
+        ul {
+            margin-left: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Recent trends Questions and Answers</h1>
+
+<div>
+    <p class="question">1. What is Artificial Intelligence (AI)? Describe its applications and uses.</p>
+    <p class="answer">Artificial Intelligence (AI) is a field of computer science focused on creating machines that simulate human intelligence. These systems learn from experience, recognize patterns, solve problems, and make autonomous decisions.</p>
+    <p class="answer">Applications and Uses of AI include:</p>
+    <ul>
+        <li>Voice assistants like Alexa and Siri for voice commands and automation</li>
+        <li>Self-driving cars that navigate and make decisions</li>
+        <li>Facial recognition systems used for security and authentication</li>
+        <li>Chatbots and virtual assistants in customer service</li>
+        <li>Email spam filtering to detect unwanted messages</li>
+        <li>Smart home automation controlling devices like lights and thermostats</li>
+        <li>Recommendation systems on platforms like YouTube and Netflix</li>
+        <li>Robotics in manufacturing and medical surgeries</li>
+        <li>Fraud detection in banking and finance</li>
+        <li>Online learning platforms personalizing education</li>
+    </ul>
+
+    <p class="question">2. Write the social impact of ICT.</p>
+    <p class="answer">- Improved communication and global connectivity<br>
+    - Enhanced access to education and job opportunities<br>
+    - Changes in lifestyle and working patterns<br>
+    - Potential social isolation and addiction to digital devices<br>
+    - Increased exposure to online risks such as cyberbullying</p>
+
+    <p class="question">3. Explain Cyber Law.</p>
+    <p class="answer">Cyber law governs legal issues related to the internet and information technology. It covers rules on online transactions, cybercrimes (hacking, identity theft), digital privacy, intellectual property rights online, and the legal status of electronic contracts and documents. Cyber law protects individuals and organizations from cyber threats.</p>
+
+    <p class="question">4. Define the terms e-learning and virtual reality (VR).</p>
+    <p class="answer"><strong>E-learning:</strong> Learning conducted through electronic media, such as the internet or educational software, enabling flexible education anytime, anywhere.<br>
+    <strong>Virtual Reality (VR):</strong> A computer-generated simulated environment where users can interact through VR headsets and sensors. Used in gaming, education, and training simulations.</p>
+
+    <p class="question">5. E-governance: What is E-governance? List its objectives, importance, and key challenges.</p>
+    <p class="answer"><strong>Definition:</strong> E-governance is the use of ICT by the government to deliver services, provide information, enhance transparency, and engage citizens in governance.</p>
+    <p class="answer"><strong>Objectives:</strong></p>
+    <ul>
+        <li>Provide fast, reliable, and transparent services to citizens</li>
+        <li>Promote accountability and reduce corruption</li>
+        <li>Enable citizen participation in governance and decision-making</li>
+        <li>Improve internal government administrative processes</li>
+    </ul>
+    <p class="answer"><strong>Importance:</strong></p>
+    <ul>
+        <li>Speeds up service delivery and reduces paperwork</li>
+        <li>Enhances transparency and accountability in government</li>
+        <li>Encourages democratic participation and citizen empowerment</li>
+    </ul>
+    <p class="answer"><strong>Key Challenges:</strong></p>
+    <ul>
+        <li>Limited ICT infrastructure especially in rural areas</li>
+        <li>Low digital literacy among the population</li>
+        <li>Cybersecurity threats targeting government systems</li>
+        <li>Resistance from government officials used to traditional processes</li>
+    </ul>
+
+    <p class="question">6. Describe the advantages and disadvantages of e-business.</p>
+    <p class="answer"><strong>Advantages:</strong></p>
+    <ul>
+        <li>Services available 24/7</li>
+        <li>Lower operational costs</li>
+        <li>Global reach and customer access</li>
+        <li>Faster transactions and easy marketing</li>
+    </ul>
+    <p class="answer"><strong>Disadvantages:</strong></p>
+    <ul>
+        <li>Vulnerable to cybersecurity threats</li>
+        <li>Lack of personal interaction</li>
+        <li>Dependence on internet and technical infrastructure</li>
+        <li>Possible delivery and logistical issues</li>
+    </ul>
+
+    <p class="question">7. Define Cloud Computing and its services. Mention disadvantages.</p>
+    <p class="answer">Cloud Computing provides computing services (servers, storage, software) over the internet, allowing users to access IT resources without owning hardware.</p>
+    <p class="answer"><strong>Services:</strong></p>
+    <ul>
+        <li>IaaS (Infrastructure as a Service): Virtual machines, storage, networks</li>
+        <li>PaaS (Platform as a Service): Tools to build and host apps</li>
+        <li>SaaS (Software as a Service): Software accessible online (e.g., Gmail)</li>
+    </ul>
+    <p class="answer"><strong>Disadvantages:</strong></p>
+    <ul>
+        <li>Data privacy and security concerns</li>
+        <li>Loss of control over sensitive data</li>
+        <li>Dependence on internet connectivity</li>
+        <li>Risk of service outages</li>
+    </ul>
+
+    <p class="question">8. What are the challenges of implementing e-governance?</p>
+    <p class="answer">- Limited ICT infrastructure in rural or remote areas<br>
+    - Low digital literacy among citizens<br>
+    - Cybersecurity threats<br>
+    - Resistance to change from traditional government processes</p>
+
+    <p class="question">9. What is M-commerce? How is it different from E-commerce?</p>
+    <p class="answer">M-commerce (Mobile Commerce) is buying and selling through wireless handheld devices like smartphones.<br>
+    Differences:<br>
+    - M-commerce is mobile device based; E-commerce also includes desktops and laptops<br>
+    - M-commerce offers mobility and anytime-anywhere access, whereas E-commerce may be more location-dependent</p>
+
+    <p class="question">10. Define the terms e-business and e-medicine.</p>
+    <p class="answer"><strong>E-business:</strong> Conducting commercial transactions online, including buying, selling, and customer service.<br>
+    <strong>E-medicine:</strong> Providing medical services (consultation, diagnosis, treatment) via digital platforms and telecommunications.</p>
+
+    <p class="question">11. What are the roles of AI in daily life? List AI-related systems in society.</p>
+    <p class="answer">AI enhances convenience and efficiency, including virtual communication (voice assistants), navigation (GPS), security (facial recognition), health monitoring (wearables), and entertainment (personalized content).</p>
+    <p class="answer"><strong>Examples of AI systems:</strong></p>
+    <ul>
+        <li>Smart speakers (Amazon Echo, Google Home)</li>
+        <li>Recommendation engines (Netflix, YouTube)</li>
+        <li>Surveillance systems with facial detection</li>
+        <li>Virtual assistants (Siri, Google Assistant)</li>
+        <li>Automated customer support chatbots</li>
+    </ul>
+
+    <p class="question">12. Write short notes on Social Media and its impact on society.</p>
+    <p class="answer">Social media platforms allow people to create, share, and exchange information online (e.g., Facebook, Twitter, Instagram).</p>
+    <p class="answer"><strong>Positive impacts:</strong></p>
+    <ul>
+        <li>Enhances communication and awareness</li>
+        <li>Promotes business and networking</li>
+    </ul>
+    <p class="answer"><strong>Negative impacts:</strong></p>
+    <ul>
+        <li>Cyberbullying and misinformation</li>
+        <li>Addiction and decreased face-to-face interaction</li>
+        <li>Privacy and data security concerns</li>
+    </ul>
+
+    <p class="question">13. What is Big Data? Mention any two advantages and two disadvantages.</p>
+    <p class="answer">Big Data refers to extremely large and complex datasets that traditional data-processing tools cannot handle effectively.</p>
+    <p class="answer"><strong>Advantages:</strong></p>
+    <ul>
+        <li>Helps in better decision making by analyzing vast amounts of data</li>
+        <li>Enables predictive analytics for future trends and behaviors</li>
+    </ul>
+    <p class="answer"><strong>Disadvantages:</strong></p>
+    <ul>
+        <li>Raises security and privacy concerns due to sensitive information</li>
+        <li>Requires high storage capacity and powerful processing resources</li>
+    </ul>
+
+    <p class="question">14. What is IoT (Internet of Things)? Write any three uses of it.</p>
+    <p class="answer">The Internet of Things (IoT) is a network of physical objects embedded with sensors, software, and other technologies that connect and exchange data with other devices via the internet.</p>
+    <p class="answer"><strong>Uses:</strong></p>
+    <ul>
+        <li>Smart home automation (e.g., smart lights, thermostats)</li>
+        <li>Health monitoring devices like fitness trackers</li>
+        <li>Smart agriculture systems for crop monitoring and irrigation</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
